@@ -48,8 +48,10 @@ Finally, here are some command to install some models / corpora that you will mo
 - NLTK downloader 
   ```
   python
+  >>> import nltk
   >>> nltk.download()
   ```
+  Select and download preferred packages.
 
 ## FAQ & Troubleshooting
 
