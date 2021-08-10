@@ -51,7 +51,7 @@ Finally, here are some command to install some models / corpora that you will mo
   >>> import nltk
   >>> nltk.download()
   ```
-  Select and download preferred packages.
+  Select and download the preferred packages for your use case.
 
 ## FAQ & Troubleshooting
 
